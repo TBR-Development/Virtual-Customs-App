@@ -1,7 +1,7 @@
 <h1 align="center">Virtual Customs App</h1>
 
 <p align="center">
-<img width=300" alt="Icon.png" src="/assets/Icon.png"><br />
+<img width=300" alt="Icon.png" src="/Icon.png"><br />
 </p>
 
 [Electron][Electron] menubar application that wraps Virtual Customs.
