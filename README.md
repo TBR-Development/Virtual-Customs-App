@@ -34,7 +34,7 @@ yarn package
 - If you want to package a squirrel based app/installer, you can use `yarn make`. Once done check the `out/make` folder for your new squirrel based app/installer.
 - Windows and linux users can use `Control+X` or `Command+X` to quit the app.
 MacOS users can use `CMD+Q` to quit the app.
-- It is recommended to have a systemwide ad blocker when using this app to get rid of excess ads. AdGuard Desktop has been tested to work perfectly with electron webapps.
+- It is recommended to have a systemwide ad blocker when using this app. AdGuard Desktop has been tested to work well with electron webapps.
 
 
 [Electron]: https://www.electronjs.org/
